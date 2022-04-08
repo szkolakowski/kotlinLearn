@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
     val exampleString = "example" // String
     val exampleInt = 200 // Int
     val exampleLong = 20000000000 // Long
