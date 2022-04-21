@@ -22,3 +22,4 @@ fun main() {
     println(laptop2)
     println(laptop3)
 }
+
